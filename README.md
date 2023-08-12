@@ -1,1 +1,1 @@
-# calculator-wsdl from ppooo
+# calculator-wsdl from pp
