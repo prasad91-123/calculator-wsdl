@@ -31,7 +31,7 @@ http://www.mulesoft.org/schema/mule/api-gateway http://www.mulesoft.org/schema/m
     <flow name="Add:\soapkit-config">
 		<logger level="INFO" doc:name="Logger" doc:id="ff4a081a-a995-4ba4-b498-bfb5f814deae" message="start of implimentation flow"/>
 		<flow-ref doc:name="Flow Reference" doc:id="7c90f1f1-a734-4fae-a874-2ed82a91a825" name="impolimentation_Sub_Flow"/>
-		<logger level="INFO" doc:name="Logger" doc:id="eedc269e-a034-42d3-bd22-f441a6d7cce5" message="end of implimentation flow"/>
+		<logger level="INFO" doc:name="Logger" doc:id="eedc269e-a034-42d3-bd22-f441a6d7cce5" message="end of implimentation flow for"/>
     </flow>
     <flow name="Subtract:\soapkit-config">
         <ee:transform>
